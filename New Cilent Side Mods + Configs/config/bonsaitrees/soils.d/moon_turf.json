@@ -1,0 +1,16 @@
+{
+  "name": "advancedrocketry:moonturf",
+  "mod": "advancedrocketry",
+  "soil": {
+    "name": "advancedrocketry:moonturf",
+    "data": 0,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 0.70,
+    "dropChance": 1.2
+  },
+
+  "providedTags": [ "dirt", "grass", "netherrack", "sand", "slime", "end_stone" ]
+}

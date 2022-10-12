@@ -1,0 +1,16 @@
+{
+  "name": "advancedrocketry:hotturf",
+  "mod": "advancedrocketry",
+  "soil": {
+    "name": "advancedrocketry:hotturf",
+    "data": 0,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 0.40,
+    "dropChance": 1.7
+  },
+
+  "providedTags": [ "dirt", "grass", "netherrack", "sand", "slime", "end_stone" ]
+}

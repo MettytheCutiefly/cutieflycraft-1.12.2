@@ -1,0 +1,16 @@
+{
+  "name": "avaritia:block_resource:1 ",
+  "mod": "avaritia",
+  "soil": {
+    "name": "avaritia:block_resource",
+    "data": 1,
+    "ignoreMeta": false
+  },
+
+  "modifiers": {
+    "growTime": 0.05,
+    "dropChance": 5.0
+  },
+
+  "providedTags": [ "dirt", "grass", "netherrack", "sand", "slime", "end_stone" ]
+}
