@@ -5,8 +5,8 @@ import mods.chisel.Carving;
 print("---------------Chisel Start------------------");
 
 	#remove Zest, will become portal Block
-mods.chisel.Carving.removeVariation("xtones:zest", <xtones:zest:4>);
-mods.chisel.Carving.removeVariation("xtones:zest", <xtones:jelt:15>);
+mods.chisel.Carving.removeVariation("zest", <xtones:zest:4>);
+mods.chisel.Carving.removeVariation("jelt", <xtones:jelt:15>);
 mods.chisel.Carving.removeVariation("marble", <astralsorcery:blockmarble:6>);
 	
 	#remove block crafting
