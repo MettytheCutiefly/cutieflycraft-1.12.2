@@ -1,0 +1,47 @@
+Updates
+General Config Changes
+Added a tooltip explaining how to reset GPS Markers
+Hotfix to address script error
+Fixed a missing handler in the netherBackport script
+Added special case for handling non first item hotingot thermal casting
+
+Quest Changes:
+Fixed type on condestrator line indicating circuit 1 instead of 5
+Fixed volumentric filler quest nbt causing it not to detect
+
+Oregen:
+Fixed tin sometimes not generating
+
+General:
+Added GT Titanium Block to valid titanium oredict for the formation of the AR Warp core ~fix contributed by 04Slash on github.
+
+Recipe Changes:
+Add in fast ore washers and a star* filterable oredict for ores that are washable with starlight for easier GT filtering ~Both of this attributed to Delfayne (Thanks!)
+Added coal cluster processing to hellfire kiln
+Cryotheum processing of osmium and enderium no longer results in incorrect ingots
+Ardite and cobalt EBFing now require circuit 1 to avoid manyullyn conflict with multiple input gasses
+Added cutting saw recipes to make blackstone slab variants
+Lowered starlight cost of crafting handybags by 25%
+Fixed ferrite mixer recipe to use invar instead of invar's components (this method is now slightly cheaper than shapecrafting)
+Added AA coffee beans to oredict with pam's coffee for increased compatibility
+
+New Mods
+- Applied Energistics Trouser Edition
+- FTB Auxilium
+- bbserver tools - to mitigate dimension unloading/loading during world saves causing lag
+
+Mod Updates
+- Animus->2.1.8
+- FluxNetworks->4.1.1.34
+- LazyAE->1.1.26
+- Logistics Bridge->1.4.5.4
+- Logistics Pipes->0.10.4.7
+- Water Mechanics Backport->1.0.5
+- thaumic energistics fork by Delfayne
+- libnine->1.2.1
+
+Mod Removals 
+- JustEnoughEnergistics
+- Applied Energistics
+
+
